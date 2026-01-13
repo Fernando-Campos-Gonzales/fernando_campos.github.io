@@ -11,7 +11,7 @@ layout: default
 
 # Fernando Campos
 
-Oceanografía física con foco en submesoescala, transferencia de energía y simulaciones acopladas océano–atmósfera.
+Physical oceanographer 
 
 ## Research interests
 - Submesoscale dynamics
