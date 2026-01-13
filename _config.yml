@@ -1,3 +1,10 @@
 title: Fernando Campos
-description: Oceanografía física · Modelación numérica
+description: CV and information
 theme: jekyll-theme-minimal
+
+author:
+  name: Fernando Eder Campos Gonzales
+  email: fecampos1302@gmail.com
+
+show_downloads: false
+
